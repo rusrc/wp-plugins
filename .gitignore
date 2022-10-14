@@ -1,0 +1,12 @@
+
+# ignore everything in the "wp-content" directory
+
+/languages/*
+/plugins/*
+/themes/*
+/uploads/*
+/index.php
+
+# Include my-plugins, plugins, and themes directories
+
+!plugins/c4l-parters
